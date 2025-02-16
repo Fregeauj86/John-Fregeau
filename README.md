@@ -9,7 +9,6 @@
       </section>
       <ul className='list-disc pl-5 text-gray-800 space-y-3'>
          <h2 className='text-3xl font-bold text-blue-600 mb-4'>Training</h2>
-          <li><strong>IT Remote Support Training:</strong> Completed 30 hours of training and passed assessments in Remote Support, Desktop Technology & Troubleshooting, Network Technology & Troubleshooting, Server Technology & Troubleshooting, Cloud Service Technology & Troubleshooting, and Remote Support Scenarios with Miles IT through their Miles University program.</li>
           <li>IT Remote Support Training - Completed 30 Hours of Training and Passed Assessments in Remote Support, Desktop Technology & Troubleshooting, Network Technology & Troubleshooting, Server Technology & Troubleshooting, Cloud Service Technology & Troubleshooting, and Remote Support Scenarios with Miles IT through their Miles University program.</li>
           <li>Cybersecurity & PenTesting</li>
           <li>SQL, C++, Java, Python</li>
