@@ -1,5 +1,4 @@
-  return (
-    <div className='min-h-screen bg-gray-100 p-4'>
+  <div className='min-h-screen bg-gray-100 p-4'>
       <header className='text-center py-10 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-lg shadow-lg mb-10'>
         <h1 className='text-5xl font-extrabold'>John Fregeau</h1>
         <p className='text-xl opacity-90'>Cybersecurity Specialist & IT Support Professional</p>
