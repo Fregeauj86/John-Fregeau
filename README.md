@@ -1,8 +1,4 @@
-import React from 'react';
-
-
-const Portfolio = () => {
-  return (
+return (
     <div className='min-h-screen bg-gray-100 p-4'>
       <header className='text-center py-10'>
         <h1 className='text-4xl font-bold'>John Fregeau</h1>
