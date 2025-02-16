@@ -34,12 +34,10 @@ const Portfolio = () => {
             <h3 className='text-2xl font-semibold'>PenTesting on TryHackMe</h3>
             <p className='text-gray-700'>Practiced penetration testing methodologies and enhanced security skills through various challenges.</p>
           </div>
-        <Card className='mb-4'>
-          <CardContent>
+        <div className='bg-white shadow rounded p-4 mb-4'>
             <h3 className='text-2xl font-semibold'>Responsive Web Design</h3>
             <p className='text-gray-700'>Developed responsive websites, showcasing modern design and usability practices.</p>
-          </CardContent>
-        </Card>
+          </div>
       </section>
 
       <section className='max-w-4xl mx-auto mb-10'>
