@@ -31,7 +31,7 @@
         <h2 className='text-3xl font-bold text-blue-600 mb-4'>Contact</h2>
         <div className='flex space-x-4 justify-center mt-4'>
           <a href='mailto:fregeauj86@gmail.com' className='text-blue-600 hover:underline hover:text-blue-800 transition-colors duration-200'>Email Me</a>
-          <a href='https://www.linkedin.com/in/fregeauj86' target='_blank' rel='noopener noreferrer' className='text-blue-600 hover:underline'>LinkedIn</a>
+          <a href='https://www.linkedin.com/in/john-fregeau' target='_blank' rel='noopener noreferrer' className='text-blue-600 hover:underline'>LinkedIn</a>
         </div>
       </section>
     </div>
