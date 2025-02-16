@@ -8,7 +8,6 @@ const Portfolio = () => {
         <h1 className='text-4xl font-bold'>John Fregeau</h1>
         <p className='text-lg text-gray-700'>Cybersecurity Specialist & IT Support Professional</p>
       </header>
-
       <section className='max-w-4xl mx-auto mb-10'>
         <h2 className='text-3xl font-bold'>About Me</h2>
         <p className='text-gray-800 leading-relaxed'>
@@ -17,7 +16,6 @@ const Portfolio = () => {
           I am driven to use my education and skills to defend against cyber threats and contribute to a safer digital future.
         </p>
       </section>
-
       <section className='max-w-4xl mx-auto mb-10'>
         <h2 className='text-3xl font-bold mb-4'>Skills</h2>
         <ul className='list-disc pl-5 text-gray-800'>
@@ -27,7 +25,6 @@ const Portfolio = () => {
           <li>Digital Marketing & Web Design</li>
         </ul>
       </section>
-
       <section className='max-w-4xl mx-auto mb-10'>
         <h2 className='text-3xl font-bold mb-4'>Projects</h2>
         <div className='bg-white shadow-md rounded-lg p-6 mb-6'>
@@ -39,7 +36,6 @@ const Portfolio = () => {
             <p className='text-gray-700'>Developed responsive websites, showcasing modern design and usability practices.</p>
           </div>
       </section>
-
       <section className='max-w-4xl mx-auto mb-10'>
         <h2 className='text-3xl font-bold mb-4'>Contact</h2>
         <div className='flex space-x-4'>
